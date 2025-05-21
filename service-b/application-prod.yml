@@ -1,3 +1,9 @@
 # config-repo/service-a/application-prod.yml
 service:
-  name: test service for Production A
+  name: Service B - Production Environment
+student:
+  id: 202334347
+  name: 최지은
+logging:
+  level:
+    root: WARN
